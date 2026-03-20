@@ -5,5 +5,10 @@
   "scripts": {
     "start": "node src/app.js"
   },
-  "dependencies": {}
+  "dependencies": {
+    "dotenv": "^16.x.x",
+    "express": "^4.x.x",
+    "ejs": "^3.x.x",
+    "pg": "^8.x.x"
+  }
 }
